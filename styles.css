@@ -1,0 +1,28 @@
+.custom-div {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding: 10px;
+  padding-left: 0px;
+  padding-top: 0px;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  display: flex;
+  grid-gap: 11px;
+}
+
+.custom-div input {
+  text-overflow: ellipsis;
+  background: rgba(0,0,0,.15);
+  border: 1px solid rgba(255,255,255,.07);
+  transition: border-color .2s cubic-bezier(.1,.7,.5,1);
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 14px 35px 14px 14px;
+  -webkit-appearance: none;
+  appearance: none;
+}

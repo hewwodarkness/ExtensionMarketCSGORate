@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "CSGO Page Extension",
+  "version": "1.0",
+  "description": "Adds custom code to CSGO page",
+  "permissions": [
+    "activeTab"
+    
+  ],
+  "host_permissions": [
+    "https://steamcommunity.com/",
+    "*://*/*"
+  ],
+  
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://market.csgo.com/en/*"],
+      "css": ["./styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
