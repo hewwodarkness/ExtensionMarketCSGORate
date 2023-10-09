@@ -1,17 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "CSGO Page Extension",
-  "version": "1.0",
-  "description": "Adds custom code to CSGO page",
-  "permissions": [
-    "activeTab"
-    
-  ],
+  "name": "Steam/MarketCSGO Market Extension",
+  "version": "1.0.8",
+  "description": "Helpful extension from https://github.com/hewwodarkness",
+  "permissions": ["activeTab", "tabs", "clipboardRead"],
   "host_permissions": [
     "https://steamcommunity.com/",
     "*://*/*"
   ],
-  
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -19,9 +15,17 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://market.csgo.com/en/*"],
+      "matches": ["<all_urls>"],
       "css": ["./styles.css"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  }
 }
