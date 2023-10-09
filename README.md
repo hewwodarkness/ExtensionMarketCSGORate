@@ -22,5 +22,11 @@
 
 |            Версія 1.0.8           |
 | :-----------------------------------------------------------------------------------------: |
-|![image](https://github.com/hewwodarkness/MarketCSGOExtensionRate/assets/66019326/f600a6f4-0f6f-4cd1-8156-9552ebeb356d)
-|
+|![image](https://github.com/hewwodarkness/MarketCSGOExtensionRate/assets/66019326/f600a6f4-0f6f-4cd1-8156-9552ebeb356d)|
+|            Версія 1.0.8           |
+|![image](https://github.com/hewwodarkness/MarketCSGOExtensionRate/assets/66019326/cd887d63-7c5f-4889-8e07-2cb88b087c41)|
+|            Версія 1.0.8           |
+|![image](https://github.com/hewwodarkness/MarketCSGOExtensionRate/assets/66019326/5e6ceb8c-e646-4069-9ae2-29b5fd0710cc)|
+
+
+
