@@ -14,4 +14,13 @@
 - Вуаля
 
 ## Вигляд:
-![gerwfgwf](https://github.com/hewwodarkness/ExtensionMarketCSGORate/assets/66019326/17ef9501-3ab0-4ec8-990a-161ee571fa88)
+
+## Бета версія
+|            Бета версія            |
+| :-----------------------------------------------------------------------------------------: |
+|![gerwfgwf](https://github.com/hewwodarkness/ExtensionMarketCSGORate/assets/66019326/17ef9501-3ab0-4ec8-990a-161ee571fa88)|
+
+|            Версія 1.0.8           |
+| :-----------------------------------------------------------------------------------------: |
+|![image](https://github.com/hewwodarkness/MarketCSGOExtensionRate/assets/66019326/f600a6f4-0f6f-4cd1-8156-9552ebeb356d)
+|
